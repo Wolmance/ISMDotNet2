@@ -1,0 +1,7 @@
+C:\Users\danii\source\repos\Task1\Task8\bin\Debug\Task8.exe.config
+C:\Users\danii\source\repos\Task1\Task8\bin\Debug\Task8.exe
+C:\Users\danii\source\repos\Task1\Task8\bin\Debug\Task8.pdb
+C:\Users\danii\source\repos\Task1\Task8\obj\Debug\Task8.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Task1\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\Task1\Task8\obj\Debug\Task8.exe
+C:\Users\danii\source\repos\Task1\Task8\obj\Debug\Task8.pdb

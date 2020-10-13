@@ -1,0 +1,7 @@
+C:\Users\danii\source\repos\Task1\Task4.1\obj\Debug\Task4.1.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Task1\Task4.1\obj\Debug\Task4.1.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\Task1\Task4.1\bin\Debug\Task4.1.exe.config
+C:\Users\danii\source\repos\Task1\Task4.1\bin\Debug\Task4.1.exe
+C:\Users\danii\source\repos\Task1\Task4.1\bin\Debug\Task4.1.pdb
+C:\Users\danii\source\repos\Task1\Task4.1\obj\Debug\Task4.1.exe
+C:\Users\danii\source\repos\Task1\Task4.1\obj\Debug\Task4.1.pdb

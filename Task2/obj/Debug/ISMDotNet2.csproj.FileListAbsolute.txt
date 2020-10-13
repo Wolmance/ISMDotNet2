@@ -1,0 +1,7 @@
+C:\Users\danii\source\repos\Task1\ISMDotNet2\bin\Debug\ISMDotNet2.exe.config
+C:\Users\danii\source\repos\Task1\ISMDotNet2\bin\Debug\ISMDotNet2.exe
+C:\Users\danii\source\repos\Task1\ISMDotNet2\bin\Debug\ISMDotNet2.pdb
+C:\Users\danii\source\repos\Task1\ISMDotNet2\obj\Debug\ISMDotNet2.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Task1\ISMDotNet2\obj\Debug\ISMDotNet2.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\Task1\ISMDotNet2\obj\Debug\ISMDotNet2.exe
+C:\Users\danii\source\repos\Task1\ISMDotNet2\obj\Debug\ISMDotNet2.pdb
